@@ -71,5 +71,6 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
 - [chartjs-ror](https://github.com/airblade/chartjs-ror) - Ruby on Rails
 - [django-chartjs](https://github.com/peopledoc/django-chartjs) - Django
 - [laravel-chartjs](https://github.com/fxcosta/laravel-chartjs) - Laravel
+- [Image-Charts](https://image-charts.com/) - Web API for static image charts
 - [quickchart](https://github.com/typpo/quickchart) - Web API for static charts
 - [wicked-charts](https://github.com/adessoAG/wicked-charts) - Java
